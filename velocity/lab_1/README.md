@@ -1,6 +1,6 @@
 # Lab 1
 This is Lab 1 for Velocity 2014 Tutorial: Battle-tested Code without the Battle.
-
+# Minor edit for triggering ci build.
 ## Requirements
 * Complete Lab 0. 
 
